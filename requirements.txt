@@ -1,0 +1,12 @@
+opencv-python
+tqdm
+yacs
+numba
+scikit-image
+filterpy
+ipython
+einops
+tensorboard
+timm
+matplotlib
+tensorboardX
