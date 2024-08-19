@@ -1,5 +1,6 @@
 # SVTformer: Spatial-View-Temporal Transformer for Multi-View 3D Human Pose Estimation
 
+<p align="center"><img src="framework.png" width="65%" alt="" /></p>
 
 ## Installation
 
