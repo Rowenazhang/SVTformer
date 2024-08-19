@@ -1,6 +1,6 @@
 # SVTformer: Spatial-View-Temporal Transformer for Multi-View 3D Human Pose Estimation
 
-<p align="center"><img src="framework.png" width="65%" alt="" /></p>
+<p align="center"><img src="framework.png" width="100%" alt="" /></p>
 
 ## Installation
 
@@ -20,10 +20,6 @@ ${POSE_ROOT}/
 |   |-- data_2d_h36m_gt.npz
 |   |-- data_2d_h36m_cpn_ft_h36m_dbb.npz
 ```
-
-## Download Pretrained Model
-
-The pretrained model can be found in the './checkpoint/pretrained' directory. 
 
 ## Test the Model
 
