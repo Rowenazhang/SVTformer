@@ -36,6 +36,10 @@ To train a model on Human3.6M:
 python main.py --frames 27 --batch_size 32 --nepoch 50 --lr 0.0002 --model svtformer --gpu 0
 ```
 
+## Citation
+Cite as below if you find this repository is helpful to your project:
+
+Wanruo Zhang, Mengyuan Liu, Hong Liu, Wenhao Li. SVTformer: Spatial-View-Temporal Transformer for Multi-View 3D Human Pose Estimation. Accepted for AAAI 2025.
 
 ## Acknowledgement
 
