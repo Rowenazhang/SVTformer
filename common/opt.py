@@ -27,7 +27,7 @@ class opts():
         self.parser.add_argument('--train', default=1)
         self.parser.add_argument('--test', action='store_true')
         self.parser.add_argument('--nepoch', type=int, default=50)
-        self.parser.add_argument('--batch_size', type=int, default=1024, help='can be changed depending on your machine')
+        self.parser.add_argument('--batch_size', type=int, default=32, help='can be changed depending on your machine')
         self.parser.add_argument('--lr', type=float, default=2e-4)
         self.parser.add_argument('--lr_decay_large', type=float, default=0.98)
         self.parser.add_argument('--large_decay_epoch', type=int, default=5)
