@@ -47,6 +47,7 @@ class opts():
         self.parser.add_argument('--model', default='', type=str)
         self.parser.add_argument('--depth', type=int, default=4)
         self.parser.add_argument('--embed_dim_ratio', type=int, default=32)
+        self.parser.add_argument('--mvf_kernel', default=7, type=int)
 
     def parse(self):
         self.init()
